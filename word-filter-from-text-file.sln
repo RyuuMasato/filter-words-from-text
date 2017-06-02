@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Words that start with the letter", "Words that start with the letter\Words that start with the letter.csproj", "{76AED9A9-A8D5-4E42-A7EB-58CE37592776}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWordFilter", "Words that start with the letter\ConsoleWordFilter.csproj", "{76AED9A9-A8D5-4E42-A7EB-58CE37592776}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

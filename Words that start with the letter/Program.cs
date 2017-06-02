@@ -10,6 +10,8 @@ namespace Words_that_start_with_the_letter
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("{0}\n{1}", Resources.StringLiterals.ApplicationName, Resources.StringLiterals.AnyKey);
+            Console.ReadKey();
         }
     }
 }
